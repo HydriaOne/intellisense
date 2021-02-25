@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.idea/Noire.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.vscode
+__pycache__
